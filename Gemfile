@@ -12,6 +12,8 @@ gem 'sass-rails'
 # gem 'uglifier'
 gem 'terser'
 
+gem 'spree_auth_devise'
+
 gem 'bootsnap', require: false
 
 # Use ActiveModel has_secure_password
